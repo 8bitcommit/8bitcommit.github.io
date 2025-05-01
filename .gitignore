@@ -1,13 +1,40 @@
-# project
-_site
-.sass-cache
-.vagrant
+﻿# =========================
+# ✅ Jekyll / GitHub Pages
+# =========================
+_site/
+.jekyll-cache/
+.sass-cache/
+*.gem
+Gemfile.lock
+vendor/
 
-# general
+# =========================
+# Visual Studio / IDE junk
+# =========================
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# =========================
+# OS/system files
+# =========================
 .DS_Store
 Thumbs.db
 ehthumbs.db
 
-Gemfile.lock
+# =========================
+# Node / NPM (if ever used)
+# =========================
+node_modules/
 
+# =========================
+# Vagrant (if ever used)
+# =========================
+.vagrant/
+
+# =========================
+# Theme build artifacts
+# =========================
 beautiful-jekyll-theme-*.gem
