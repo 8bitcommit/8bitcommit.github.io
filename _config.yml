@@ -21,7 +21,7 @@ author: Adam Kearsey
 
 navbar-links:
   About Me: "aboutme"
-  main_Mix: "blog"
+  Blog: "blog"
   Projects: "projects"
   Resume: "resume"
 
