@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "PhantomDrive: Portable Security on a Stick"
 date: 2025-05-02
