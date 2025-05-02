@@ -6,7 +6,7 @@ categories: [projects, security]
 tags: [linux, usb, virtualization, bash, forensics, ubuntu]
 ---
 
-## Summary
+
 
 **PhantomDrive** is a USB-based, bootable Linux environment with automated VM support. Designed to operate in hostile or untrusted settings, it offers a secure, persistent OS (Ubuntu 24.04 LTS) paired with lightweight virtual machines and privacy-first configurations. Whether you're a journalist, a traveler, or a hacker on the move, PhantomDrive provides a full computing experience that leaves no trace on the host machine.
 
