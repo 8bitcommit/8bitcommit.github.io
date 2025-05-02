@@ -139,17 +139,18 @@ navbar-var-length: false
 
 
 
-page-col: "#F9FAFB"
-text-col: "#2C2C2C"
-link-col: "#0070F3"
-hover-col: "#005F99"
-navbar-col: "#F3F4F6"
-navbar-text-col: "#1F2937"
-navbar-border-col: "#D1D5DB"
-footer-col: "#F3F4F6"
-footer-text-col: "#6B7280"
-footer-link-col: "#1F2937"
-footer-hover-col: "#005F99"
+page-col: "#F0F4F8"           # Light Gray-Blue – clean and modern background
+text-col: "#1F2937"           # Dark Gray – strong readability
+link-col: "#3B82F6"           # Blue – modern and vibrant
+hover-col: "#2563EB"          # Darker Blue – subtle hover effect
+navbar-col: "#E5E7EB"         # Light Gray – soft and neutral navbar
+navbar-text-col: "#111827"    # Very Dark Gray – clear navbar text
+navbar-border-col: "#D1D5DB"  # Light Gray – subtle navbar border
+footer-col: "#E5E7EB"         # Light Gray – cohesive footer background
+footer-text-col: "#6B7280"    # Gray – understated footer text
+footer-link-col: "#111827"    # Very Dark Gray – consistent with navbar text
+footer-hover-col: "#2563EB"   # Darker Blue – matching hover effect
+
 
 
 ##default greys
