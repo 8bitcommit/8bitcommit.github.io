@@ -18,7 +18,7 @@ When the U.S. Commerce Secretary’s laptop was allegedly cloned in Beijing in 2
 
 ## The Idea
 
-Most live USBs suck. They're either too limited (no persistence), too bloated (full installs without security in mind), or too dependent on the host. PhantomDrive is none of those things.
+Most live USBs are bad. They're either too limited (no persistence), too bloated (full installs without security in mind), or too dependent on the host. PhantomDrive is none of those things.
 
 Instead, it:
 
@@ -69,7 +69,7 @@ Future upgrades could include:
 - **YubiKey integration**
 - **Per-VM hash checks for integrity**
 
-PhantomDrive isn’t just a tool—it’s a framework for secure, portable computing.
+PhantomDrive isn’t just a tool, it’s a framework for secure, portable computing.
 
 ## Conclusion
 
@@ -86,4 +86,4 @@ PhantomDrive proved that with the right design, you don’t need a trusted machi
 
 ---
 
-_Thanks for reading. If you’re interested in portable security or want to build something like PhantomDrive, check out the repo or reach out._
+_Thanks for reading. If you’re interested in portable security or want to build something like PhantomDrive, [check out the repo](https://github.com/8bitcommit/PhantomDrive) or reach out._
