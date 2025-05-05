@@ -12,9 +12,9 @@ tags: [linux, usb, virtualization, bash, forensics, ubuntu]
 
 ## The Problem
 
-Modern computing assumes trust. We plug into hotel charging stations, boot unfamiliar PCs, and surf on sketchy Wi-Fi. These environments pose serious risks—data theft, malware injection, or even hardware-level attacks.
+Modern computing assumes trust. We plug into hotel charging stations, boot unfamiliar PCs, and surf on sketchy Wi-Fi. These environments pose serious risks such as data theft, malware injection, or even hardware-level attacks.
 
-When the U.S. Commerce Secretary’s laptop was allegedly cloned in Beijing in 2008, it wasn’t an edge case—it was a wake-up call. PhantomDrive answers that call.
+When the U.S. Commerce Secretary’s laptop was allegedly cloned in Beijing in 2008, it wasn’t an edge case, it was a wake-up call. I developed PhantomDrive to answer that call.
 
 ## The Idea
 

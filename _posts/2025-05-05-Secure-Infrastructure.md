@@ -1,5 +1,5 @@
 ﻿---
-title: "Wires, Wi-Fi, and the War for Infrastructure:   Why Electricians Need Cybersecurity Skills"
+title: "Wires, Wi-Fi, and the War for Infrastructure: Why Electricians Need Cybersecurity Skills"
 date: 2025-05-04
 author: "Adam Kearsey"
 ---
