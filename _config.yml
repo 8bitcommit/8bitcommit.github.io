@@ -245,6 +245,9 @@ footer-hover-col: "#2563EB"   # Darker Blue – matching hover effect
 #  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well)
 #    siteKey  : # You need to apply for a site key on Google
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
+google_analytics: false
+sitemap: false
+
 
 # To use giscus comments:
 # (0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository,
