@@ -50,7 +50,7 @@ Here’s a starting point. If you’re installing connected EVSE, inverters, sma
 - **Label the gear clearly** and leave documentation for IT teams or end users.
 - **Know the vendor’s cloud platform**. Understand where it connects, what it reports, and how it updates.
 
-That’s not cybersecurity paranoia. That’s **professionalism** in 2025.
+What may seem like paranoia is professionalism in 2025.
 
 ## Infrastructure is the Battleground
 
