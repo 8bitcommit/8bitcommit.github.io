@@ -12,14 +12,14 @@ Most of us live with dozens of connected devices. Smart speakers, TVs, routers, 
 
 This post walks through a Python-based script that can scan your local network and identify each device by:
 - IP address
-- MAC address (The first 3 bytes of a MAC address, the OUI, map to a vendor.)
+- MAC address: The first 3 bytes of a MAC address (the OUI) map to a vendor.
 - Vendor name (like Apple, TP-Link, or Espressif)
 - Open ports (to understand what services they expose)
 
 ---
 ##  Why This Matters
 
-Your home network is a microcosm of **global manufacturing and digital trust**.
+Your home network is a quiet showcase of who you’ve trusted, **knowingly or not.**
 
 - That baby monitor might phone home to a server on the other side of the world.
 - That smart plug might be running firmware written by a company you've never heard of.
@@ -41,7 +41,7 @@ pip3 install scapy mac-vendor-lookup
 
 ## Finding Your Local IP and Subnet
 
-Before scanning, you need to know your network range;  
+Before scanning, you need to know your network range:  
 usually something like `192.168.1.0/24`.
 
 ### On Linux/macOS:
