@@ -63,7 +63,7 @@ Replace the 'Local_Subnet' variable to match this.
 
 
 ## The Code
-This script uses ARP to silently discover devices, probes a set of common ports, and identifies the manufacturer via MAC prefix.
+This script uses ARP to silently discover devices, probes a set of common ports, and identifies the manufacturer via MAC prefix. View [8BitCommit GitHub Repository](https://github.com/8bitcommit/Home_Network) for more info.
 
  ```python
     from scapy.all import ARP, Ether, srp
