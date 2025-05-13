@@ -187,7 +187,7 @@ This gives you a clearer picture of not just *what* is on your network, but *who
 ---
 ## Conclusion
 
-Most of us didn’t invite these machines in with much scrutiny. They showed up in Amazon boxes, in router default configs, in light bulbs that suddenly needed apps.
+Most of us invited these machines in without much scrutiny. They showed up in Amazon boxes, in router default configs, in light bulbs that suddenly needed apps.
 
 But they're here now, running firmware from companies we've never heard of, making connections we didn't authorize, and sitting silently on our networks.
 
