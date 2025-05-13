@@ -58,7 +58,7 @@ Look for a line like:
 inet 192.168.1.42/24
 ```
 That means your subnet is 192.168.1.0/24.   
-Replace the 'subnet' variable to match this.
+Replace the 'Local_Subnet' variable to match this.
 
 
 ## The Code
@@ -71,7 +71,7 @@ This script uses ARP to silently discover devices, probes a set of common ports,
     import time
     import csv
 
-    subnet = '192.168.1.0/24'
+    Local_Subnet = '192.168.1.0/24'
     COMMON_PORTS = [
         21, 22, 23, 53, 80, 123, 137, 138, 139, 445,
         443, 3306, 3389, 5357, 8000, 8080, 8443
@@ -92,7 +92,7 @@ This script uses ARP to silently discover devices, probes a set of common ports,
                 pass
         return open_ports
 
-    def quiet_arp_scan(subnet, output_file='network_inventory.csv'):
+    def quiet_arp_scan(subnet = Local_Subnet, output_file='network_inventory.csv'):
         arp = ARP(pdst=subnet)
         ether = Ether(dst="ff:ff:ff:ff:ff:ff")
         packet = ether / arp
