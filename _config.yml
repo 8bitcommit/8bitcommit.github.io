@@ -109,6 +109,8 @@ title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
+excerpt_separator: "<!--more-->"
+
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -138,17 +140,30 @@ navbar-var-length: false
 
 
 
-page-col: "#F0F4F8"           # Light Gray-Blue – clean and modern background
-text-col: "#1F2937"           # Dark Gray – strong readability
-link-col: "#3B82F6"           # Blue – modern and vibrant
-hover-col: "#2563EB"          # Darker Blue – subtle hover effect
-navbar-col: "#E5E7EB"         # Light Gray – soft and neutral navbar
-navbar-text-col: "#111827"    # Very Dark Gray – clear navbar text
-navbar-border-col: "#D1D5DB"  # Light Gray – subtle navbar border
-footer-col: "#E5E7EB"         # Light Gray – cohesive footer background
-footer-text-col: "#6B7280"    # Gray – understated footer text
-footer-link-col: "#111827"    # Very Dark Gray – consistent with navbar text
-footer-hover-col: "#2563EB"   # Darker Blue – matching hover effect
+#page-col: "#F0F4F8"           # Light Gray-Blue – clean and modern background
+#text-col: "#1F2937"           # Dark Gray – strong readability
+#link-col: "#3B82F6"           # Blue – modern and vibrant
+#hover-col: "#2563EB"          # Darker Blue – subtle hover effect
+#navbar-col: "#E5E7EB"         # Light Gray – soft and neutral navbar
+#navbar-text-col: "#111827"    # Very Dark Gray – clear navbar text
+#navbar-border-col: "#D1D5DB"  # Light Gray – subtle navbar border
+#footer-col: "#E5E7EB"         # Light Gray – cohesive footer background
+#footer-text-col: "#6B7280"    # Gray – understated footer text
+#footer-link-col: "#111827"    # Very Dark Gray – consistent with navbar text
+#footer-hover-col: "#2563EB"   # Darker Blue – matching hover effect
+page-col:        "#FAFAFA"    # Off-white background
+text-col:        "#1E293B"    # Slate-900 — sharp, not full black
+link-col:        "#6366F1"    # Indigo-500 — strong and modern
+hover-col:       "#4338CA"    # Indigo-700 — hover depth
+
+navbar-col:      "#F9FAFB"    # White-ish grey — fresh
+navbar-text-col: "#111827"    # Dark text
+navbar-border-col: "#E5E7EB"  # Subtle border
+
+footer-col:      "#F3F4F6"    # Light grey, different from page-col
+footer-text-col: "#4B5563"    # Cool grey for tone
+footer-link-col: "#6366F1"    # Same as link — cohesion
+footer-hover-col: "#4338CA"   # Hover strength
 
 
 
