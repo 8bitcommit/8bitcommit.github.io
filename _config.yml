@@ -192,7 +192,7 @@ footer-hover-col: "#4338CA"   # Hover strength
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 site-css:
-  - "/assets/css/custom-styles.css?v=2"
+  - "/assets/css/custom-styles.css?v=3"
 
 
 
