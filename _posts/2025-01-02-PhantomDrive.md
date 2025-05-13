@@ -12,8 +12,13 @@ tags: [linux, usb, virtualization, bash, forensics, ubuntu]
 
 
 ![usb_phantomDrive](/assets/img/usb.jpg)
-Photo by <a href="https://unsplash.com/@stereophototyp?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sara Kurfeß</a> on <a href="https://unsplash.com/photos/black-thumb-drive-9Eid2zc_Veo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-      
+<details>
+<summary>📸 Image Credits</summary>
+
+- Photo by <a href="https://unsplash.com/@stereophototyp?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sara Kurfeß</a> on <a href="https://unsplash.com/photos/black-thumb-drive-9Eid2zc_Veo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+         
+</details>
+  
 ## The Problem
 
 Modern computing assumes trust. We plug into hotel charging stations, boot unfamiliar PCs, and surf on sketchy Wi-Fi. These environments pose serious risks such as data theft, malware injection, or even hardware-level attacks.

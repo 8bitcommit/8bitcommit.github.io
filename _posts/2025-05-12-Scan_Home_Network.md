@@ -10,8 +10,7 @@ tags: [networking, python, security]
 
 
 ![smartdevices](/assets/img/smart_devices.jpg)
-Photo by <a href="https://unsplash.com/@jakubzerdzicki?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jakub Żerdzicki</a> on <a href="https://unsplash.com/photos/a-computer-keyboard-light-bulbs-and-other-electronics-on-a-purple-and-yellow-background-3Ik3JMp7Woo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-      
+
 > *Who developed our IoT devices?*
 
 Most of us live with dozens of connected devices. Smart speakers, TVs, routers, security cameras, printers, all quietly talking across our networks. But **do you know who built them**? Or where the firmware came from?
@@ -21,7 +20,12 @@ This post walks through a Python-based script that can scan your local network a
 - MAC address: The first 3 bytes of a MAC address (the OUI) map to a vendor.
 - Vendor name (like Apple, TP-Link, or Espressif)
 - Open ports (to understand what services they expose)
+<details>
+<summary>📸 Image Credits</summary>
 
+- Photo by <a href="https://unsplash.com/@jakubzerdzicki?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jakub Żerdzicki</a> on <a href="https://unsplash.com/photos/a-computer-keyboard-light-bulbs-and-other-electronics-on-a-purple-and-yellow-background-3Ik3JMp7Woo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+- Network inventory screenshot: Created by Adam Kearsey      
+</details>
 ---
 ##  Why This Matters
 
