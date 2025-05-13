@@ -14,5 +14,5 @@ With a background that bridges field-level electrical work and advanced IT/secur
 
 When I’m not working, you’ll usually find me playing my Epiphone EJ-200 or Fender 12-string guitars, or out running trails with my Brittany dog, Layla, who insists on keeping me outdoors. Some of my favorite moments happen around a campfire, playing every song we can remember under the stars.
 
-![Layla](/assets/img/Layla.jpg)  
-<figcaption>Layla, my trail buddy and campfire companion.</figcaption>
+![Layla](/assets/img/Layla.jpg)
+*Layla, my trail buddy and campfire companion.*
