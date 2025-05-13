@@ -3,7 +3,7 @@ layout: post
 title: "PhantomDrive: Portable Security on a Stick"
 date: 2025-05-02
 categories: [projects, security]
-tags: [linux, usb, virtualization, bash, forensics, ubuntu]
+tags: [linux, usb, virtualization, bash, forensics, ubuntu, Vbox]
 ---
 
 
