@@ -1,25 +1,29 @@
-﻿body {
-	background-color: #FAFAFA; /* page-col */
-	color: #1E293B; /* text-col */
+﻿/* Set the main page background and text color */
+body {
+	background-color: #FAFAFA;
+	color: #1E293B;
 }
 
+/* Link styles */
 a {
-	color: #6366F1; /* link-col */
+	color: #6366F1;
 }
 
 	a:hover {
-		color: #4338CA; /* hover-col */
+		color: #4338CA;
 	}
 
+/* Navbar styling */
 .navbar {
-	background-color: #F9FAFB; /* navbar-col */
+	background-color: #F9FAFB;
 	border-bottom: 1px solid #E5E7EB;
 }
 
 .navbar-nav > li > a {
-	color: #111827; /* navbar-text-col */
+	color: #111827;
 }
 
+/* Footer styling */
 footer {
 	background-color: #F3F4F6;
 	color: #4B5563;
