@@ -1,0 +1,34 @@
+﻿body {
+	background-color: #FAFAFA; /* page-col */
+	color: #1E293B; /* text-col */
+}
+
+a {
+	color: #6366F1; /* link-col */
+}
+
+	a:hover {
+		color: #4338CA; /* hover-col */
+	}
+
+.navbar {
+	background-color: #F9FAFB; /* navbar-col */
+	border-bottom: 1px solid #E5E7EB;
+}
+
+.navbar-nav > li > a {
+	color: #111827; /* navbar-text-col */
+}
+
+footer {
+	background-color: #F3F4F6;
+	color: #4B5563;
+}
+
+	footer a {
+		color: #6366F1;
+	}
+
+		footer a:hover {
+			color: #4338CA;
+		}
