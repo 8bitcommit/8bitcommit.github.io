@@ -7,12 +7,12 @@ description: "Map and identify every device on your home network using a stealth
 tags: [networking, python, security]
 ---
 
-> *Who Developed Our IoT Devices?*
+
 
 ![smartdevices](/assets/img/smart_devices.jpg)
 Photo by <a href="https://unsplash.com/@jakubzerdzicki?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jakub Żerdzicki</a> on <a href="https://unsplash.com/photos/a-computer-keyboard-light-bulbs-and-other-electronics-on-a-purple-and-yellow-background-3Ik3JMp7Woo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
-
+> *Who developed our IoT devices?*
 
 Most of us live with dozens of connected devices. Smart speakers, TVs, routers, security cameras, printers, all quietly talking across our networks. But **do you know who built them**? Or where the firmware came from?
 

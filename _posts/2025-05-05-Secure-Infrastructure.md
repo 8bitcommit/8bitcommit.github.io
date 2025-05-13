@@ -3,7 +3,10 @@ title: "Wires, Wi-Fi, and the War for Infrastructure: Why Electricians Need Cybe
 date: 2025-05-04
 author: "Adam Kearsey"
 ---
-
+      
+![EVcharger](/assets/img/chargers.jpg)
+Photo by <a href="https://unsplash.com/@zaptec?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Zaptec</a> on <a href="https://unsplash.com/photos/a-woman-is-pumping-gas-into-her-car-9166Worfn_Q?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
 > *"The next blackout might not be caused by a broken breaker, but by a laptop."*
 
 As a Red Seal Journeyman Electrician and a graduate with a Bachelor of Science in Computer Science focused on System and Information Security, I've spent years with one hand on the code and the other on the conduit. In that space between the physical and the digital, I’ve seen something alarming:
@@ -11,6 +14,7 @@ As a Red Seal Journeyman Electrician and a graduate with a Bachelor of Science i
 We're building the future on insecure infrastructure.
 
 ## The Smart Grid is Dumb Without Security
+
 
 From **Level 2 EV chargers** to **grid-tied solar inverters**, **battery banks**, and **smart panels**, modern electrical systems are no longer passive. They’re **active, networked, and hackable**.
 
