@@ -3,6 +3,7 @@ layout: post
 title: "Who Built the Machines That Live in Our Homes?"
 date: 2025-05-12
 author: Adam Kearsey
+description: "Map and identify every device on your home network using a stealth Python script. Learn who built them and what they’re doing."
 tags: [networking, python, security]
 ---
 
