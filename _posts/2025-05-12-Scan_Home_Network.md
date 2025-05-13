@@ -10,7 +10,6 @@ tags: [networking, python, security]
 
 
 ![smartdevices](/assets/img/smart_devices.jpg)
-
 > *Who developed our IoT devices?*
 
 Most of us live with dozens of connected devices. Smart speakers, TVs, routers, security cameras, printers, all quietly talking across our networks. But **do you know who built them**? Or where the firmware came from?

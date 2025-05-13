@@ -5,7 +5,6 @@ author: "Adam Kearsey"
 ---
       
 ![EVcharger](/assets/img/chargers.jpg)
-
 > *"The next blackout might not be caused by a broken breaker, but by a laptop."*
 
 As a Red Seal Journeyman Electrician and a graduate with a Bachelor of Science in Computer Science focused on System and Information Security, I've spent years with one hand on the code and the other on the conduit. In that space between the physical and the digital, I’ve seen something alarming:
