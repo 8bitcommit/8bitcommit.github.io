@@ -205,7 +205,7 @@ site-css:
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-#gtag: "G-XXXXXXXXXX"
+gtag: "G-JMCMJ8V64P"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""

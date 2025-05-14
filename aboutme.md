@@ -12,7 +12,7 @@ I'm a versatile IT professional with hands-on experience across both physical an
 
 With a background that bridges field-level electrical work and advanced IT/security skills, I specialize in designing and securing complex systems. I'm especially passionate about using automation to streamline and protect digital environments.
 
-When I’m not working, you’ll usually find me playing my Epiphone EJ-200 or Fender 12-string guitars, or out running trails with my Brittany dog, Layla, who insists on keeping me outdoors. Some of my favorite moments happen around a campfire, playing every song we can remember under the stars.
+When I’m not working, you’ll usually find me playing my Epiphone EJ-200 or Fender 12-string guitars, or out running trails with my Brittany dog, Layla, who insists on keeping me outdoors. Some of my favorite moments happen around a campfire, playing every song we can remember.
 
 <!---![Layla](/assets/img/Layla.jpg)
 *Layla, my trail buddy and campfire companion.*-->
