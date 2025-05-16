@@ -37,7 +37,8 @@ Mental health AI operates in a regulatory grey area. Apps like Woebot often mark
 
 This creates real problems: unclear accountability, weak data privacy protections, lack of transparency around how models are trained, and biased outputs (Chenneville et al., 2024). Many models reflect the same systemic biases found in society, including racism, sexism, and heterosexism (Chenneville et al., 2024, p. 163).
 
-As Dr. Hannah Zevin put it, “Therapy has enough problems on its own, and now they've brought all of the problems of algorithmic technology to bear” (Brown, 2021).
+>  “Therapy has enough problems on its own, and now they've brought all of the problems of algorithmic technology to bear."  
+-Dr. Hannah Zevin (Brown, 2021)
 
 Without stronger oversight, these tools risk undermining the core values of mental health care, like dignity, beneficence, and trust (Chenneville et al., 2024).
 
