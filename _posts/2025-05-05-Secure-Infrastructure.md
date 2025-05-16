@@ -80,7 +80,7 @@ To the tech people: get your boots dirty. Learn how power flows. Understand the 
 Only together do we stand a chance of securing the infrastructure we’re racing to modernize.
 
 [⬇️ Download my Cybersecurity Checklist (PDF)](/assets/data/Cybersecurity%20Checklist%20for%20Commercial%20EV%20Charger%20Installations.pdf)
-of things to consider for EV charger installs (and any network connected device for that matter)
+of things to consider for EV charger installs (and any network connected device for that matter).
 
 ---
 
