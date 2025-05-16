@@ -56,8 +56,7 @@ These steps won’t solve everything, but they’re essential for making AI more use
 ## Final Thoughts
 
 AI tools like *Woebot* show promise. They offer support to people who might not otherwise get it. But they aren’t a replacement for human care.
-To make sure AI adds value instead of creating harm, we need to be clear about what these tools can do, what they can’t, and how they should be used. That means prioritizing transparency, responsibility, and ethical design from the start.
-
+To make sure AI adds value instead of creating harm, we need to be clear about what these tools can do, what they can’t, and how they should be used. That means prioritizing transparency, responsibility, and ethical design from the start.  
 – Adam Kearsey
 
 ## References
