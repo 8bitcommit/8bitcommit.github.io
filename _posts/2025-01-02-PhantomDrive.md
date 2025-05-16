@@ -2,6 +2,7 @@
 layout: post
 title: "PhantomDrive: Portable Security on a Stick"
 date: 2025-05-02
+author: Adam Kearsey
 categories: [projects, security]
 tags: [linux, usb, virtualization, bash, forensics, ubuntu, Vbox]
 ---
