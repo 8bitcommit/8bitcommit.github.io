@@ -5,14 +5,13 @@ subtitle: "Exploring the ethical and practical challenges of AI-driven therapy t
 date: 2024-12-04
 author: Adam Kearsey
 tags: [AI, mental health, ethics, technology, Woebot]
----
-
-<img src="/assets/img/Therapist.png" alt="Therapist" style="max-width: 250px; height: auto; display: block; margin-bottom: 0.5em;" />
+---  
 
 As the mental health crisis deepens, artificial intelligence tools like *Woebot* are stepping up to fill the gap. These tools promise round-the-clock, anonymous, and accessible support for those facing anxiety, depression, and stress. That kind of access matters, especially when cost and availability keep many from getting the help they need.
 
 But despite the hype, the role of AI in mental health support isn’t straightforward. It brings real benefits, but also serious limitations and ethical risks that need urgent attention.
 
+<img src="/assets/img/Therapist.png" alt="Therapist" style="max-width: 250px; height: auto; display: block; margin-bottom: 0.5em;" />
 
 ## Why AI Is Gaining Ground
 
