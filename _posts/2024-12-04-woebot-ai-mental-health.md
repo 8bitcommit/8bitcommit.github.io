@@ -7,8 +7,7 @@ author: Adam Kearsey
 tags: [AI, mental health, ethics, technology, Woebot]
 ---
 
-<img src="/assets/img/Therapist.png" alt="Therapist" style="max-width: 250px; height: auto; display: block; margin-bottom: 0.5em;" />  
-<p> </p>
+<img src="/assets/img/Therapist.png" alt="Therapist" style="max-width: 250px; height: auto; display: block; margin-bottom: 0.5em;" />
 
 As the mental health crisis deepens, artificial intelligence tools like *Woebot* are stepping up to fill the gap. These tools promise round-the-clock, anonymous, and accessible support for those facing anxiety, depression, and stress. That kind of access matters, especially when cost and availability keep many from getting the help they need.
 
@@ -37,8 +36,8 @@ Mental health AI operates in a regulatory grey area. Apps like Woebot often mark
 
 This creates real problems: unclear accountability, weak data privacy protections, lack of transparency around how models are trained, and biased outputs (Chenneville et al., 2024). Many models reflect the same systemic biases found in society, including racism, sexism, and heterosexism (Chenneville et al., 2024, p. 163).
 
->  “Therapy has enough problems on its own, and now they've brought all of the problems of algorithmic technology to bear."  
--Dr. Hannah Zevin (Brown, 2021)
+>  *“Therapy has enough problems on its own, and now they've brought all of the problems of algorithmic technology to bear."  
+-Dr. Hannah Zevin (Brown, 2021)*
 
 Without stronger oversight, these tools risk undermining the core values of mental health care, like dignity, beneficence, and trust (Chenneville et al., 2024).
 
