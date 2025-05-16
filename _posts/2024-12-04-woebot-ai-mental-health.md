@@ -59,9 +59,9 @@ To make sure AI adds value instead of creating harm, we need to be clear about w
 
 ## References
 
-1. Baeza-Yates, R., Fayyad, U. M., & Fayyad, U. (2024). *Responsible AI: An Urgent Mandate.* IEEE Intelligent Systems, 39(1), 12–17. https://doi.org/10.1109/MIS.2023.3343488  
-2. Brown, K. (2021). *Something Bothering You? Tell It to Woebot.* International New York Times, 10 June 2021. https://www.nytimes.com/2021/06/01/health/artificial-intelligence-therapy-woebot.html  
-3. Chenneville, T., Duncan, B., & Silva, G. (2024). *More questions than answers: Ethical considerations at the intersection of psychology and generative artificial intelligence.* Translational Issues in Psychological Science, 10(2), 162–178. https://doi.org/10.1037/tps0000400  
-4. Carter, K. (2024). *Mental Health and AI.* Bulletin of the American Academy of Arts and Sciences, 77(3), 12–13. https://www.jstor.org/stable/27304418  
-5. Ho, A., & Perry, J. (2023). *What We Owe Those Who Chat Woe: A Relational Lens for Mental Health Apps.* American Journal of Bioethics, 23(10), 77–80. https://doi.org/10.1080/15265161.2023.2250306  
-6. Tavory, T. (2024). *Regulating AI in Mental Health: Ethics of Care Perspective.* JMIR Mental Health; 11: e58493. https://mental.jmir.org/2024/1/e58493  
+1. Baeza-Yates, R., Fayyad, U. M., & Fayyad, U. (2024). *Responsible AI: An Urgent Mandate.* IEEE Intelligent Systems, 39(1), 12–17. [https://doi.org/10.1109/MIS.2023.3343488](https://doi.org/10.1109/MIS.2023.3343488)
+2. Brown, K. (2021). *Something Bothering You? Tell It to Woebot.* International New York Times, 10 June 2021. [https://www.nytimes.com/2021/06/01/health/artificial-intelligence-therapy-woebot.html](https://www.nytimes.com/2021/06/01/health/artificial-intelligence-therapy-woebot.html)  
+3. Chenneville, T., Duncan, B., & Silva, G. (2024). *More questions than answers: Ethical considerations at the intersection of psychology and generative artificial intelligence.* Translational Issues in Psychological Science, 10(2), 162–178. [https://doi.org/10.1037/tps0000400](https://doi.org/10.1037/tps0000400)  
+4. Carter, K. (2024). *Mental Health and AI.* Bulletin of the American Academy of Arts and Sciences, 77(3), 12–13. [https://www.jstor.org/stable/27304418](https://www.jstor.org/stable/27304418)  
+5. Ho, A., & Perry, J. (2023). *What We Owe Those Who Chat Woe: A Relational Lens for Mental Health Apps.* American Journal of Bioethics, 23(10), 77–80. [https://doi.org/10.1080/15265161.2023.2250306](https://doi.org/10.1080/15265161.2023.2250306)
+6. Tavory, T. (2024). *Regulating AI in Mental Health: Ethics of Care Perspective.* JMIR Mental Health; 11: e58493. [https://mental.jmir.org/2024/1/e58493](https://mental.jmir.org/2024/1/e58493)  
