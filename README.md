@@ -43,6 +43,3 @@ You can find me [on GitHub](https://github.com/8bitcommit), [on LinkedIn](https:
 If you're hiring or collaborating on something interesting:  
 📫 **KearseyA@Proton.me**
 
----
-
-🧠 *Built with [Beautiful Jekyll](https://beautifuljekyll.com) and fueled by curiosity.*
