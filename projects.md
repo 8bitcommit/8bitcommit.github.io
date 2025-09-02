@@ -4,7 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-Hey, check out my GitHub: [github.com/8bitcommit](https://github.com/8bitcommit)
+Hey, check out my [GitHub!](https://github.com/8bitcommit)
+
+Heres what I've been working on:
 
 [PhantomDrive](https://github.com/8bitcommit)  provides solution to the Evil Maid attack.
 
