@@ -28,7 +28,7 @@ When the U.S. Commerce Secretary’s laptop was allegedly cloned in Beijing in 2
 
 ## The Idea
 
-Most live USBs are bad. They're either too limited (no persistence), too bloated (full installs without security in mind), or too dependent on the host. PhantomDrive is none of those things.
+Most live USBs either too limited (no persistence), too bloated (full installs without security in mind), or too dependent on the host. PhantomDrive is none of those things.
 
 Instead, it:
 
