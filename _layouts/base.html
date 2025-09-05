@@ -25,15 +25,21 @@ common-js:
 {% include head.html %}
 
 <body>
-  {% include gtm_body.html %}
+    {% include gtm_body.html %}
 
-  {% include nav.html %}
+    {% include nav.html %}
 
-  {{ content }}
+    {{ content }}
 
-  {% include footer.html %}
+    {% include footer.html %}
 
-  {% include footer-scripts.html %}
+    {% include footer-scripts.html %}
+    <script>document.querySelectorAll('a[href^="http"]').forEach(function(link) {
+    if (link.hostname !== location.hostname) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });</script>
 
 </body>
 </html>
