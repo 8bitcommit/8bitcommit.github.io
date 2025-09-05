@@ -8,7 +8,7 @@ Hey, check out my [GitHub!](https://github.com/8bitcommit)
 
 Heres what I've been working on:
 
-[PhantomDrive](https://github.com/8bitcommit)  provides solution to the Evil Maid attack.
+[PhantomDrive](https://github.com/8bitcommit)  provides solution to the [Evil Maid attack.](https://en.wikipedia.org/wiki/Evil_maid_attack)
 
 [HomeScan](https://github.com/8bitcommit/Home_Network) displays the devices on our home network and exposes their origins.
 
