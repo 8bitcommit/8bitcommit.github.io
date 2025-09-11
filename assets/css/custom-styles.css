@@ -7,7 +7,7 @@ body {
 /* /assets/css/custom-styles.css */
 /* Ensure the title image (Aux logo)displays properly in the navbar */
 .navbar-brand .title-img {
-	max-height: 50px; /* keep logo height consistent with navbar */
+	max-height: 55px; /* keep logo height consistent with navbar */
 	width: auto; /* maintain aspect ratio */
 	vertical-align: middle; /* align with navbar text */
 	margin-right: 8px; /* add slight spacing if text ever appears */
