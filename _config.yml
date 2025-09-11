@@ -38,7 +38,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify following parameter
-title-img: "/assets/img/Aux.png"
+title-img: "/assets/img/AuxSend.png"
 
 
 #####################################
