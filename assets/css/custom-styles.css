@@ -5,10 +5,14 @@ body {
 }
 /*logo*/
 /* /assets/css/custom-styles.css */
-.title-img {
-	max-height: 40px; /* keeps navbar tidy */
-	width: auto; /* keep aspect ratio */
+/* Ensure the title image (Aux logo) displays properly in the navbar */
+.navbar-brand .title-img {
+	max-height: 40px; /* keep logo height consistent with navbar */
+	width: auto; /* maintain aspect ratio */
+	vertical-align: middle; /* align with navbar text */
+	margin-right: 8px; /* add slight spacing if text ever appears */
 }
+
 
 
 /* Link styles */
