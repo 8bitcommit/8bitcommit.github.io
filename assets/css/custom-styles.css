@@ -3,6 +3,13 @@ body {
 	background-color: #FAFAFA;
 	color: #1E293B;
 }
+/*logo*/
+/* /assets/css/custom-styles.css */
+.title-img {
+	max-height: 40px; /* keeps navbar tidy */
+	width: auto; /* keep aspect ratio */
+}
+
 
 /* Link styles */
 a {
