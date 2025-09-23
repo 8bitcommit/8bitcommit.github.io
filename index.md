@@ -4,7 +4,7 @@ title: Aux Send
 permalink: /
 ---
 <div style="text-align: center; font-style: italic; margin-bottom: 1.5em;">
-_A signal chain of security, software, and sound._
+A signal chain of security, software, and sound.
 </div>
 ---
 
