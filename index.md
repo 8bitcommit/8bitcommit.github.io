@@ -10,4 +10,4 @@ _A signal chain of security, software, and sound._
 
 This is **Aux Send**, a place for my Projects, Blog and Resume.  
 
-👉 [TechYEG.com](https://techyeg.com) is where you'll find network and automation services.
+[TechYEG.com](https://techyeg.com) is where you'll find network and automation services.
